@@ -17,5 +17,6 @@
 		"freecodecamp",
 		"Learning",
 		"packagejson"
-	]
+	],
+	"license": "MIT"
 }
