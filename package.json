@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"author": "Onyeka Okonta"
+	"author": "Onyeka Okonta",
+	"description": "A project that I am using to learn backend development"
 }
