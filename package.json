@@ -12,5 +12,10 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "Onyeka Okonta",
-	"description": "A project that I am using to learn backend development"
+	"description": "A project that I am using to learn backend development",
+	"keywords": [
+		"freecodecamp",
+		"Learning",
+		"packagejson"
+	]
 }
